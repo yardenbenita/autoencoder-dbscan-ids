@@ -1,0 +1,9 @@
+.venv/
+data/
+__pycache__/
+*.pyc
+*.zip
+
+results/*.csv
+results/*.pt
+src/explore_data.py
